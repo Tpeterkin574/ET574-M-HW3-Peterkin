@@ -12,3 +12,4 @@ def greet_students(student_list):
 #call the function
 greet_students(students)
 
+#Task 1 complete
